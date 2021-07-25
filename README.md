@@ -13,10 +13,13 @@ Link da aplicação publicada: https://app.netlify.com/sites/gerenciador-bibliot
 ### Funcionalidades
 
 :heavy_check_mark:  Consulta, cadastro e exclusão de produtos
+
 :heavy_check_mark:  Consulta, cadastro e exclusão de clientes
 
 ### Conhecimentos, linguagens , dependências e bibliotecas utilizadas :books:
 
 :pushpin: Projeto desenvolvido em ReactJs
+
 :pushpin: Bibliotecas: react, react-dom, react-router-dom, react-icons
+
 :pushpin: Hooks: useState, useEffect, Switch, Route, BrowserRouter
