@@ -8,7 +8,7 @@
 
  ## Deploy realizado na plataforma Netlify
 
-Link da aplicação publicada: https://app.netlify.com/sites/gerenciador-biblioteca-virtual/settings/general
+Link da aplicação publicada: https://gerenciador-biblioteca-virtual.netlify.app/
 
 ### Funcionalidades
 
